@@ -1,3 +1,7 @@
+#To hide API keys
+config.js
+configs.js
+
 # Logs
 logs
 *.log
