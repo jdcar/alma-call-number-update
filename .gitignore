@@ -1,6 +1,11 @@
 #To hide API keys
 config.js
 configs.js
+data.csv
+#To hide our data
+holdingsData.json
+getrequest.js
+
 
 # Logs
 logs
