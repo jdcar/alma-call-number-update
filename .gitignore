@@ -2,9 +2,13 @@
 config.js
 configs.js
 data.csv
+data-test.csv
 #To hide our data
 holdingsData.json
 getrequest.js
+
+getError.txt
+putError.txt
 
 
 # Logs
